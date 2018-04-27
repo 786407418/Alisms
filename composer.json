@@ -1,0 +1,21 @@
+{
+    "name": "shangxin/yii2-alisms",
+    "description": "the message service of ali",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lw",
+            "email": "786407418@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"shangxin\\alisms\\": "src/"
+		}
+	}
+}
